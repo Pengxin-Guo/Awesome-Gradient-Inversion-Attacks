@@ -9,12 +9,12 @@ A Deep Dive into Gradient Inversion Attacks](https:xxx)** \
 
 ## Overview
 
-The existing GIA methods can be divided into three types: optimization-based GIA (**OP-GIA**), which works by minimizing the distance between received gradients and gradients computed from dummy data; generation-based GIA (**GEN-GIA**), which utilizes a generator to reconstruct input data; and analytics-based GIA (**ANA-GIA**), which aims to recover input data in closed form. Moreover, GEN-GIA can be further divided into three categories: optimizing the latent vector $\bm{z}$, optimizing the generator’s parameters $\bm{W}, and training an inversion generation model. ANA-GIA can be further divided into two categories: manipulating model architecture and manipulating model parameters.
+The existing Gradient Inversion Attacks (GIA) methods can be divided into three types: optimization-based GIA (**OP-GIA**), which works by minimizing the distance between received gradients and gradients computed from dummy data; generation-based GIA (**GEN-GIA**), which utilizes a generator to reconstruct input data; and analytics-based GIA (**ANA-GIA**), which aims to recover input data in closed form. Moreover, GEN-GIA can be further divided into three categories: optimizing the latent vector z, optimizing the generator’s parameters $\bm{W}, and training an inversion generation model. ANA-GIA can be further divided into two categories: manipulating model architecture and manipulating model parameters.
 
 - [Optimization-based GIA (OP-GIA)](#optimization-based-gia-op-gia)
 - [Generation-based GIA (GEN-GIA)](#generation-based-gia-gen-gia)
-  - [Optimizing Latent Vector $\bm{z}$](#optimizing-latent-vector-z)
-  - [Optimizing Generator's Parameters $\bm{W}$](#optimizing-generators-parameters-w)
+  - [Optimizing Latent Vector z](#optimizing-latent-vector-z)
+  - [Optimizing Generator's Parameters W](#optimizing-generators-parameters-w)
   - [Training an Inversion Generation Model](#training-an-inversion-generation-model)
 - [Analytics-based GIA (ANA-GIA)](#analytics-based-gia-ana-gia)
   - [Manipulating Model Architecture](#manipulating-model-architecture)
