@@ -11,6 +11,7 @@ A Deep Dive into Gradient Inversion Attacks](https:xxx)** \
 
 The existing Gradient Inversion Attacks (GIA) methods can be divided into three types: optimization-based GIA (**OP-GIA**), which works by minimizing the distance between received gradients and gradients computed from dummy data; generation-based GIA (**GEN-GIA**), which utilizes a generator to reconstruct input data; and analytics-based GIA (**ANA-GIA**), which aims to recover input data in closed form. Moreover, GEN-GIA can be further divided into three categories: optimizing the latent vector z, optimizing the generator’s parameters W, and training an inversion generation model. ANA-GIA can be further divided into two categories: manipulating model architecture and manipulating model parameters.
 
+- [Survey Papers](#survey-papers)
 - [Optimization-based GIA (OP-GIA)](#optimization-based-gia-op-gia)
 - [Generation-based GIA (GEN-GIA)](#generation-based-gia-gen-gia)
   - [Optimizing Latent Vector z](#optimizing-latent-vector-z)
@@ -20,6 +21,25 @@ The existing Gradient Inversion Attacks (GIA) methods can be divided into three 
   - [Manipulating Model Architecture](#manipulating-model-architecture)
   - [Manipulating Model Parameters](#manipulating-model-parameters)
 
+
+## Survey Papers
+
+- **Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy** [[Paper](https://arxiv.org/abs/2405.10376)] \
+*Yichuan Shi, Olivera Kotevska, Viktor Reshniak, Abhishek Singh, and Ramesh Raskar* \
+arXiv:2405.10376, 2024.
+
+- **The Impact of Adversarial Attacks on Federated Learning: A Survey** [[Paper](https://ieeexplore.ieee.org/document/10274102?denied=)] \
+*Kummari Naveen Kumar, Chalavadi Krishna Mohan, and Linga Reddy Cenkeramaddi*\
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023.
+
+- **A Survey on Gradient Inversion: Attacks, Defenses and Future Directions** [[Paper](https://www.ijcai.org/proceedings/2022/0791)] \
+*Rui Zhang, Song Guo, Junxiao Wang, Xin Xie, and Dacheng Tao*\
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2022.
+
+
+- **A survey on security and privacy of federated learning** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20329848)] \
+*Viraaji Mothukuri, Reza M. Parizi, Seyedamin Pouriyeh, Yan Huang, Ali Dehghantanha, and Gautam Srivastava* \
+Future Generation Computer Systemsm, 2021.
 
 ## Optimization-based GIA (OP-GIA)
 
