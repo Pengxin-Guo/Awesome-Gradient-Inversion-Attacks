@@ -20,6 +20,7 @@ The existing Gradient Inversion Attacks (GIA) methods can be divided into three 
 - [Analytics-based GIA (ANA-GIA)](#analytics-based-gia-ana-gia)
   - [Manipulating Model Architecture](#manipulating-model-architecture)
   - [Manipulating Model Parameters](#manipulating-model-parameters)
+- [Emprical Works](#emprical-works)
 
 
 ## Survey Papers
@@ -201,3 +202,17 @@ International Conference on Machine Learning (**ICML**), 2022.
 - **Eluding Secure Aggregation in Federated Learning via Model Inconsistency** [[Paper](https://dl.acm.org/doi/abs/10.1145/3548606.3560557)] [[Code](https://github.com/pasquini-dario/EludingSecureAggregation)] \
 *Dario Pasquini, Danilo Francati, and Giuseppe Ateniese* \
 ACM SIGSAC Conference on Computer and Communications Security (**CCS**), 2022.
+
+## Emprical Works
+
+- **SoK: On Gradient Leakage in Federated Learning** [[Paper](https://arxiv.org/abs/2404.05403)] \
+*Jiacheng Du, Jiahui Hu, Zhibo Wang, Peng Sun, Neil Zhenqiang Gong, Kui Ren, and Chun Chen* \
+USENIX Security Symposium (**USENIX Security**), 2025.
+
+- **FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses** [[Paper](https://arxiv.org/abs/2411.03019)] \
+*Isaac Baglin, Xiatian Zhu, and Simon Hadfield* \
+arXiv:2411.03019, 2025.
+
+- **Evaluating Gradient Inversion Attacks and Defenses in Federated Learning** [[Paper](https://proceedings.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html)] \
+*Yangsibo Huang, Samyak Gupta, Zhao Song, Kai Li, and Sanjeev Arora* \
+Conference on Neural Information Processing Systems (**NeurIPS**), 2021.
