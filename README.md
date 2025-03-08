@@ -39,7 +39,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022.
 
 - **A survey on security and privacy of federated learning** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20329848)] \
 *Viraaji Mothukuri, Reza M. Parizi, Seyedamin Pouriyeh, Yan Huang, Ali Dehghantanha, and Gautam Srivastava* \
-Future Generation Computer Systemsm, 2021.
+Future Generation Computer Systemsm (**FGCS**), 2021.
 
 ## Optimization-based GIA (OP-GIA)
 
