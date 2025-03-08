@@ -3,7 +3,7 @@
 :star: This repository hosts a curated collection of literature associated with **gradient inversion attacks in federated learning**. Feel free to star and fork. For further details, refer to the following paper:
 
 **[Exploring the Vulnerabilities of Federated Learning:
-A Deep Dive into Gradient Inversion Attacks](https:xxx)** \
+A Deep Dive into Gradient Inversion Attacks](https://pengxin-guo.github.io/FLPrivacy/)** \
 [Pengxin Guo](https://pengxin-guo.github.io/)\*, Runxi Wang\*, Shuang Zeng, Jinjing Zhu, Haoning Jiang, Yanran Wang, Yuyin Zhou, Feifei Wang, Hui Xiong, and [Liangqiong Qu](https://liangqiong.github.io/)
 
 
