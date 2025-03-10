@@ -4,7 +4,7 @@
 
 **[Exploring the Vulnerabilities of Federated Learning:
 A Deep Dive into Gradient Inversion Attacks](https://pengxin-guo.github.io/FLPrivacy/)** \
-[Pengxin Guo](https://pengxin-guo.github.io/)\*, Runxi Wang\*, Shuang Zeng, Jinjing Zhu, Haoning Jiang, Yanran Wang, Yuyin Zhou, Feifei Wang, Hui Xiong, and [Liangqiong Qu](https://liangqiong.github.io/)
+[Pengxin Guo](https://pengxin-guo.github.io/)\*, [Runxi Wang](https://scholar.google.com/citations?user=wClrSiMAAAAJ&hl=zh-CN)\*, Shuang Zeng, Jinjing Zhu, Haoning Jiang, Yanran Wang, Yuyin Zhou, Feifei Wang, Hui Xiong, and [Liangqiong Qu](https://liangqiong.github.io/)
 
 
 ## Overview
