@@ -48,6 +48,10 @@ Future Generation Computer Systemsm (**FGCS**), 2021.
 *Bowen Li, Hanlin Gu, Ruoxin Chen, Jie Li, Chentao Wu, Na Ruan, Xueming Si, and Lixin Fan* \
 IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 
+- **TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models** [[Paper](https://arxiv.org/abs/2503.20952)] \
+*Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, and Lydia Y. Chen* \
+arXiv:2503.20952, 2025.
+
 - **Gradient Inversion Attacks: Impact Factors Analyses and Privacy Enhancement** [[Paper](https://ieeexplore.ieee.org/abstract/document/10604429)] [[Code](https://github.com/MiLab-HITSZ/2023YeGIAnDe)] \
 *Zipeng Ye, Wenjian Luo, Qi Zhou, Zhenqian Zhu, Yuhui Shi, and Yan Jia* \
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024.
