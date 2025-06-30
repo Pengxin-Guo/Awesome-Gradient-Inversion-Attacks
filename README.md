@@ -221,9 +221,13 @@ ACM SIGSAC Conference on Computer and Communications Security (**CCS**), 2022.
 *Jiacheng Du, Jiahui Hu, Zhibo Wang, Peng Sun, Neil Zhenqiang Gong, Kui Ren, and Chun Chen* \
 USENIX Security Symposium (**USENIX Security**), 2025.
 
+- **Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning** [[Paper](https://arxiv.org/abs/2506.20651)] \
+*Fei Wang and Baochun Li* \
+arXiv:2506.20651, 2025.
+
 - **FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses** [[Paper](https://arxiv.org/abs/2411.03019)] \
 *Isaac Baglin, Xiatian Zhu, and Simon Hadfield* \
-arXiv:2411.03019, 2025.
+arXiv:2411.03019, 2024.
 
 - **Evaluating Gradient Inversion Attacks and Defenses in Federated Learning** [[Paper](https://proceedings.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html)] [[Code](https://github.com/Princeton-SysML/GradAttack)] \
 *Yangsibo Huang, Samyak Gupta, Zhao Song, Kai Li, and Sanjeev Arora* \
