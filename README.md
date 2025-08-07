@@ -72,6 +72,10 @@ International Conference on Learning Representations (**ICLR**), 2024.
 *Jin Qian, Kaimin Wei, Yongdong Wu, Jilian Zhang, Jinpeng Chen, and Huan Bao* \
 International Conference on Intelligent Computing (**ICIC**), 2024.
 
+- **Uncovering Gradient Inversion Risks in Practical Language Model Training** [[Paper](https://dl.acm.org/doi/10.1145/3658644.3690292)] \
+*Xinguo Feng, Zhongkui Ma, Zihan Wang, Eu Joe Chegne, Mengyao Ma, Alsharif Abuadbba, and Guangdong Bai* \
+ACM Conference on Computer and Communications Security (**CCS**), 2024.
+
 - **Federated Learning under Attack: Improving Gradient Inversion for Batch of Images** [[Paper](https://arxiv.org/abs/2409.17767)] \
 *Luiz Leite, Yuri Santo, Bruno L. Dalmazo, and André Riker* \
 arXiv:2409.17767, 2024.
