@@ -23,8 +23,7 @@ The existing Gradient Inversion Attacks (GIA) methods can be divided into three 
 - [Emprical Works](#emprical-works)
 
 
-<details id="survey-papers">
-<summary><strong style="font-size: 1.5em;">Survey Papers</strong></summary>
+## Survey Papers
 
 - **Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy** [[Paper](https://arxiv.org/abs/2405.10376)] \
 *Yichuan Shi, Olivera Kotevska, Viktor Reshniak, Abhishek Singh, and Ramesh Raskar* \
@@ -43,10 +42,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022.
 *Viraaji Mothukuri, Reza M. Parizi, Seyedamin Pouriyeh, Yan Huang, Ali Dehghantanha, and Gautam Srivastava* \
 Future Generation Computer Systemsm (**FGCS**), 2021.
 
-</details>
-
-<details id="optimization-based-gia-op-gia">
-<summary><strong style="font-size: 1.5em;">Optimization-based GIA (OP-GIA)</strong></summary>
+## Optimization-based GIA (OP-GIA)
 
 - **Temporal Gradient Inversion Attacks with Robust Optimization** [[Paper](https://ieeexplore.ieee.org/abstract/document/10848255)] \
 *Bowen Li, Hanlin Gu, Ruoxin Chen, Jie Li, Chentao Wu, Na Ruan, Xueming Si, and Lixin Fan* \
@@ -156,13 +152,9 @@ arXiv:2001.02610, 2020.
 *Ligeng Zhu, Zhijian Liu, and Song Han* \
 Conference on Neural Information Processing Systems (**NeurIPS**), 2019.
 
-</details>
+## Generation-based GIA (GEN-GIA)
 
-<details id="generation-based-gia-gen-gia" open>
-<summary><strong style="font-size: 1.5em;">Generation-based GIA (GEN-GIA)</strong></summary>
-
-<details id="optimizing-latent-vector-z">
-<summary><strong style="font-size: 1.1em;">Optimizing Latent Vector z</strong></summary>
+### Optimizing Latent Vector z
 
 - **GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization** [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Fang_GIFD_A_Generative_Gradient_Inversion_Method_with_Feature_Domain_Optimization_ICCV_2023_paper.html)] [[Code](https://github.com/ffhibnese/GIFD_Gradient_Inversion_Attack)] \
 *Hao Fang, Bin Chen, Xuan Wang, Zhi Wang, and Shu-Tao Xia* \
@@ -176,10 +168,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2022.
 *Jinwoo Jeon, jaechang Kim, Kangwook Lee, Sewoong Oh, and Jungseul Ok* \
 Conference on Neural Information Processing Systems (**NeurIPS**), 2021.
 
-</details>
-
-<details id="optimizing-generators-parameters-w">
-<summary><strong style="font-size: 1.1em;">Optimizing Generator's Parameters W</strong></summary>
+### Optimizing Generator's Parameters W
 
 - **Generative Image Reconstruction From Gradients** [[Paper](https://ieeexplore.ieee.org/abstract/document/10495167)] \
 *Ekanut Sotthiwata, Liangli Zhen, Chi Zhang, Zengxiang Li, and Rick Siow Mong Goh* \
@@ -193,10 +182,7 @@ International Conference on Computer Vision (**ICCV**), 2023.
 *Hanchi Ren, Jingjing Deng, and Xianghua Xie* \
 ACM Transactions on Intelligent Systems and Technology (**TIST**), 2022.
 
-</details>
-
-<details id="training-an-inversion-generation-model">
-<summary><strong style="font-size: 1.1em;">Training an Inversion Generation Model</strong></summary>
+### Training an Inversion Generation Model
 
 - **Fast Generation-Based Gradient Leakage Attacks against Highly Compressed Gradients** [[Paper](https://ieeexplore.ieee.org/abstract/document/10229091)] [[Code](https://github.com/pigeon-dove/FGLA)] \
 *Dongyun Xue, Haomiao Yang, Mengyu Ge, Jingwei Li, Guowen Xu, and Hongwei Li* \
@@ -206,15 +192,9 @@ IEEE International Conference on Computer Communications (**INFOCOM**), 2023.
 *Ruihan Wu, Xiangyu Chen, Chuan Guo, and Kilian Q. Weinberger*\
 Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
 
-</details>
+## Analytics-based GIA (ANA-GIA)
 
-</details>
-
-<details id="analytics-based-gia-ana-gia" open>
-<summary><strong style="font-size: 1.5em;">Analytics-based GIA (ANA-GIA)</strong></summary>
-
-<details id="manipulating-model-architecture">
-<summary><strong style="font-size: 1.1em;">Manipulating Model Architecture</strong></summary>
+### Manipulating Model Architecture
 
 - **Loki: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation** [[Paper](https://ieeexplore.ieee.org/abstract/document/10646724)] [[Code](https://github.com/Manishpandey-0/Adversarial-reconstruction-attack-on-FL-using-LOKI)] \
 *Joshua C. Zhao, Atul Sharma, Ahmed Roushdy Elkordy, Yahya H. Ezzeldin, Salman Avestimehr, and Saurabh Bagchi* \
@@ -225,10 +205,7 @@ IEEE Symposium on Security and Privacy (**S&P**), 2024.
 *Liam H Fowl, Jonas Geiping, Wojciech Czaja, Micah Goldblum, and Tom Goldstein* \
 International Conference on Learning Representations (**ICLR**), 2022.
 
-</details>
-
-<details id="manipulating-model-parameters">
-<summary><strong style="font-size: 1.1em;">Manipulating Model Parameters</strong></summary>
+### Manipulating Model Parameters
 
 - **Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Sami_Gradient_Inversion_Attacks_on_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html)] [[Code](https://github.com/info-ucr/PEFTLeak)] \
 *Hasin Us Sami, Swapneel Sen, Amit K. Roy-Chowdhury, Srikanth V. Krishnamurthy, and Basak Guler* \
@@ -250,12 +227,7 @@ International Conference on Machine Learning (**ICML**), 2022.
 *Dario Pasquini, Danilo Francati, and Giuseppe Ateniese* \
 ACM SIGSAC Conference on Computer and Communications Security (**CCS**), 2022.
 
-</details>
-
-</details>
-
-<details id="emprical-works">
-<summary><strong style="font-size: 1.5em;">Empirical Works</strong></summary>
+## Emprical Works
 
 - **SoK: On Gradient Leakage in Federated Learning** [[Paper](https://arxiv.org/abs/2404.05403)] \
 *Jiacheng Du, Jiahui Hu, Zhibo Wang, Peng Sun, Neil Zhenqiang Gong, Kui Ren, and Chun Chen* \
@@ -272,5 +244,3 @@ arXiv:2411.03019, 2024.
 - **Evaluating Gradient Inversion Attacks and Defenses in Federated Learning** [[Paper](https://proceedings.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html)] [[Code](https://github.com/Princeton-SysML/GradAttack)] \
 *Yangsibo Huang, Samyak Gupta, Zhao Song, Kai Li, and Sanjeev Arora* \
 Conference on Neural Information Processing Systems (**NeurIPS**), 2021.
-
-</details>
