@@ -100,6 +100,10 @@ International Conference on Learning Representations (**ICLR**), 2023.
 *Sanjay Kariyappa, Chuan Guo, Kiwan Maeng, Wenjie Xiong, G. Edward Suh, Moinuddin K Qureshi, and Hsien-Hsin S. Lee* \
 International Conference on Machine Learning (**ICML**), 2023.
 
+- **Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning** [[Paper](https://proceedings.mlr.press/v202/zhu23m.html)] [[Code](https://github.com/JunyiZhu-AI/surrogate_model_extension)] \
+*Junyi Zhu, Ruicong Yao, and Matthew B. Blaschko* \
+International Conference on Machine Learning (**ICML**), 2023.
+
 - **Gradient Obfuscation Gives a False Sense of Security in Federated Learning** [[Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/yue)] [[Code](https://github.com/KAI-YUE/rog)] \
 *Kai Yue, North Carolina State University; Richeng Jin, Zhejiang University; Chau-Wai Wong, Dror Baron, and Huaiyu Dai, and North Carolina State University* \
 USENIX Security Symposium (**USENIX Security**), 2023.
