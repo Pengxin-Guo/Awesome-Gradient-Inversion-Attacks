@@ -48,6 +48,10 @@ Future Generation Computer Systemsm (**FGCS**), 2021.
 *Bowen Li, Hanlin Gu, Ruoxin Chen, Jie Li, Chentao Wu, Na Ruan, Xueming Si, and Lixin Fan* \
 IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 
+- **Non-Linear Trajectory Modeling for Multi-Step Gradient Inversion Attacks in Federated Learning** [[Paper](https://arxiv.org/abs/2509.22082)] \
+*Li Xia, Zheng Liu, Sili Huang, Wei Tang, and Xuan Liu* \
+arXiv:2509.22082, 2025.
+
 - **Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings** [[Paper](https://arxiv.org/abs/2506.08435)] \
 *Mingyuan Fan, Fuyi Wang, Cen Chen, and Jianying Zhou* \
 arXiv:2506.08435, 2025.
