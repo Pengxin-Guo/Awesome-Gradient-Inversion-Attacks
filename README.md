@@ -158,7 +158,7 @@ Conference on Neural Information Processing Systems (**NeurIPS**), 2019.
 
 </details>
 
-<details id="generation-based-gia-gen-gia">
+<details id="generation-based-gia-gen-gia" open>
 <summary><strong style="font-size: 1.5em;">Generation-based GIA (GEN-GIA)</strong></summary>
 
 <details id="optimizing-latent-vector-z">
@@ -210,7 +210,7 @@ Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
 
 </details>
 
-<details id="analytics-based-gia-ana-gia">
+<details id="analytics-based-gia-ana-gia" open>
 <summary><strong style="font-size: 1.5em;">Analytics-based GIA (ANA-GIA)</strong></summary>
 
 <details id="manipulating-model-architecture">
