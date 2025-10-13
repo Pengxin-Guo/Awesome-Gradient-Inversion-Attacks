@@ -25,6 +25,10 @@ The existing Gradient Inversion Attacks (GIA) methods can be divided into three 
 
 ## Survey Papers
 
+- **SoK: Gradient Inversion Attacks in Federated Learning** [[Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/carletti)] \
+*Vincenzo Carletti, Pasquale Foggia, Carlo Mazzocca, Giuseppe Parrella, and Mario Vento* \
+USENIX Security Symposium (**USENIX Security**), 2025.
+
 - **Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy** [[Paper](https://arxiv.org/abs/2405.10376)] \
 *Yichuan Shi, Olivera Kotevska, Viktor Reshniak, Abhishek Singh, and Ramesh Raskar* \
 arXiv:2405.10376, 2024.
