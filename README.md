@@ -220,6 +220,9 @@ Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
 *Joshua C. Zhao, Atul Sharma, Ahmed Roushdy Elkordy, Yahya H. Ezzeldin, Salman Avestimehr, and Saurabh Bagchi* \
 IEEE Symposium on Security and Privacy (**S&P**), 2024.
 
+- **The Resource Problem of Using Linear Layer Leakage Attack in Federated Learning** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_The_Resource_Problem_of_Using_Linear_Layer_Leakage_Attack_in_CVPR_2023_paper.html)] \
+*Joshua C. Zhao, Ahmed Roushdy Elkordy, Atul Sharma, Yahya H. Ezzeldin, Salman Avestimehr, and Saurabh Bagchi* \
+IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023.
 
 - **Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models** [[Paper](https://openreview.net/forum?id=fwzUgo0FM9v&ref=morioh.com&utm_source=morioh.com)] [[Code](https://github.com/lhfowl/robbing_the_fed)] \
 *Liam H Fowl, Jonas Geiping, Wojciech Czaja, Micah Goldblum, and Tom Goldstein* \
