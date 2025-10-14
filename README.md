@@ -198,6 +198,10 @@ International Conference on Computer Vision (**ICCV**), 2023.
 *Hanchi Ren, Jingjing Deng, and Xianghua Xie* \
 ACM Transactions on Intelligent Systems and Technology (**TIST**), 2022.
 
+- **CGIR: Conditional Generative Instance Reconstruction Attacks Against Federated Learning** [[Paper](https://ieeexplore.ieee.org/abstract/document/9980415)] \
+*Xiangrui Xu, Pengrui Liu, Wei Wang, Hong-Liang Ma, Bin Wang, Zhen Han, and Yufei Han* \
+IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2022.
+
 ### Training an Inversion Generation Model
 
 - **Fast Generation-Based Gradient Leakage Attacks against Highly Compressed Gradients** [[Paper](https://ieeexplore.ieee.org/abstract/document/10229091)] [[Code](https://github.com/pigeon-dove/FGLA)] \
