@@ -92,6 +92,9 @@ ACM Conference on Computer and Communications Security (**CCS**), 2024.
 *Zipeng Ye, Wenjian Luo, Qi Zhou, and Yubo Tang* \
 AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
+- **GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks?** [[Paper](https://ieeexplore.ieee.org/abstract/document/10445924)] [[Code](https://github.com/D1aoBoomm/GI-PIP)] \
+*Yu Sun, Gaojian Xiong, Xianxun Yao, Kailang Ma, and Jian Cui* \
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
 - **Federated Learning under Attack: Improving Gradient Inversion for Batch of Images** [[Paper](https://arxiv.org/abs/2409.17767)] \
 *Luiz Leite, Yuri Santo, Bruno L. Dalmazo, and André Riker* \
