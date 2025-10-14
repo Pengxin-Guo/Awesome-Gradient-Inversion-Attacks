@@ -216,6 +216,10 @@ Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
 
 ### Manipulating Model Architecture
 
+- **Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction** [[Paper](https://www.ndss-symposium.org/ndss-paper/scale-mia-a-scalable-model-inversion-attack-against-secure-federated-learning-via-latent-space-reconstruction/)] [[Code](https://github.com/unknown123489/Scale-MIA)] \
+*Shanghao Shi, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y.Thomas Hou, and Wenjing Lou* \
+Network and Distributed System Security Symposium (**NDSS**), 2025.
+
 - **Loki: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation** [[Paper](https://ieeexplore.ieee.org/abstract/document/10646724)] [[Code](https://github.com/Manishpandey-0/Adversarial-reconstruction-attack-on-FL-using-LOKI)] \
 *Joshua C. Zhao, Atul Sharma, Ahmed Roushdy Elkordy, Yahya H. Ezzeldin, Salman Avestimehr, and Saurabh Bagchi* \
 IEEE Symposium on Security and Privacy (**S&P**), 2024.
