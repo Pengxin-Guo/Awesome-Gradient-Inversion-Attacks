@@ -52,6 +52,10 @@ Future Generation Computer Systemsm (**FGCS**), 2021.
 *Bowen Li, Hanlin Gu, Ruoxin Chen, Jie Li, Chentao Wu, Na Ruan, Xueming Si, and Lixin Fan* \
 IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 
+- **Mjolnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34829)] \
+*Xuan Liu, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, and Kaiwei Lin* \
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
 - **Non-Linear Trajectory Modeling for Multi-Step Gradient Inversion Attacks in Federated Learning** [[Paper](https://arxiv.org/abs/2509.22082)] \
 *Li Xia, Zheng Liu, Sili Huang, Wei Tang, and Xuan Liu* \
 arXiv:2509.22082, 2025.
