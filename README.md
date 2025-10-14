@@ -88,6 +88,11 @@ International Conference on Intelligent Computing (**ICIC**), 2024.
 *Xinguo Feng, Zhongkui Ma, Zihan Wang, Eu Joe Chegne, Mengyao Ma, Alsharif Abuadbba, and Guangdong Bai* \
 ACM Conference on Computer and Communications Security (**CCS**), 2024.
 
+- **High-Fidelity Gradient Inversion in Distributed Learning** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29975)] [[Code](https://github.com/MiLab-HITSZ/2023YeHFGradInv)] \
+*Zipeng Ye, Wenjian Luo, Qi Zhou, and Yubo Tang* \
+AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
+
+
 - **Federated Learning under Attack: Improving Gradient Inversion for Batch of Images** [[Paper](https://arxiv.org/abs/2409.17767)] \
 *Luiz Leite, Yuri Santo, Bruno L. Dalmazo, and André Riker* \
 arXiv:2409.17767, 2024.
