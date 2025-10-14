@@ -194,13 +194,13 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024.
 *Chi Zhang, Zhang Xiaoman, Ekanut Sotthiwat, Yanyu Xu, Ping Liu, Liangli Zhen, and Yong Liu* \
 International Conference on Computer Vision (**ICCV**), 2023.
 
-- **GRNN: Generative Regression Neural Network—A Data Leakage Attack for Federated Learning** [[Paper](https://dl.acm.org/doi/abs/10.1145/3510032)] [[Code](https://github.com/Rand2AI/GRNN)] \
-*Hanchi Ren, Jingjing Deng, and Xianghua Xie* \
-ACM Transactions on Intelligent Systems and Technology (**TIST**), 2022.
-
 - **CGIR: Conditional Generative Instance Reconstruction Attacks Against Federated Learning** [[Paper](https://ieeexplore.ieee.org/abstract/document/9980415)] \
 *Xiangrui Xu, Pengrui Liu, Wei Wang, Hong-Liang Ma, Bin Wang, Zhen Han, and Yufei Han* \
 IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2022.
+
+- **GRNN: Generative Regression Neural Network—A Data Leakage Attack for Federated Learning** [[Paper](https://dl.acm.org/doi/abs/10.1145/3510032)] [[Code](https://github.com/Rand2AI/GRNN)] \
+*Hanchi Ren, Jingjing Deng, and Xianghua Xie* \
+ACM Transactions on Intelligent Systems and Technology (**TIST**), 2022.
 
 ### Training an Inversion Generation Model
 
