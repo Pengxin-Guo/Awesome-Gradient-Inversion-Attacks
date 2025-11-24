@@ -260,6 +260,10 @@ ACM SIGSAC Conference on Computer and Communications Security (**CCS**), 2022.
 *Jiacheng Du, Jiahui Hu, Zhibo Wang, Peng Sun, Neil Zhenqiang Gong, Kui Ren, and Chun Chen* \
 USENIX Security Symposium (**USENIX Security**), 2025.
 
+- **On the Detectability of Active Gradient Inversion Attacks in Federated Learning** [[Paper](https://arxiv.org/abs/2511.10502)] \
+*Vincenzo Carletti, Pasquale Foggia, Carlo Mazzocca, Giuseppe Parrella, and Mario Vento* \
+arXiv:2511.10502, 2025.
+
 - **Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning** [[Paper](https://arxiv.org/abs/2506.20651)] \
 *Fei Wang and Baochun Li* \
 arXiv:2506.20651, 2025.
