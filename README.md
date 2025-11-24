@@ -48,6 +48,10 @@ Future Generation Computer Systemsm (**FGCS**), 2021.
 
 ## Optimization-based GIA (OP-GIA)
 
+- **GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search** [[Paper](https://ieeexplore.ieee.org/abstract/document/11080068)] \
+*Wenbo Yu, Hao Fang, Bin Chen, Xiaohang Sui, Chuan Chen, Hao Wu, Shu-Tao Xia, and Ke Xu* \
+IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.
+
 - **Temporal Gradient Inversion Attacks with Robust Optimization** [[Paper](https://ieeexplore.ieee.org/abstract/document/10848255)] \
 *Bowen Li, Hanlin Gu, Ruoxin Chen, Jie Li, Chentao Wu, Na Ruan, Xueming Si, and Lixin Fan* \
 IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
@@ -56,17 +60,17 @@ IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 *Xuan Liu, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, and Kaiwei Lin* \
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
+- **Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings** [[Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/fan-boosting)] \
+*Mingyuan Fan, Fuyi Wang, Cen Chen, and Jianying Zhou* \
+USENIX Security Symposium (**USENIX Security**), 2025.
+
+- **TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models** [[Paper](https://ieeexplore.ieee.org/abstract/document/10992348)] \
+*Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, and Lydia Y. Chen* \
+IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**), 2025.
+
 - **Non-Linear Trajectory Modeling for Multi-Step Gradient Inversion Attacks in Federated Learning** [[Paper](https://arxiv.org/abs/2509.22082)] \
 *Li Xia, Zheng Liu, Sili Huang, Wei Tang, and Xuan Liu* \
 arXiv:2509.22082, 2025.
-
-- **Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings** [[Paper](https://arxiv.org/abs/2506.08435)] \
-*Mingyuan Fan, Fuyi Wang, Cen Chen, and Jianying Zhou* \
-arXiv:2506.08435, 2025.
-
-- **TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models** [[Paper](https://arxiv.org/abs/2503.20952)] \
-*Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, and Lydia Y. Chen* \
-arXiv:2503.20952, 2025.
 
 - **Gradient Inversion Attacks: Impact Factors Analyses and Privacy Enhancement** [[Paper](https://ieeexplore.ieee.org/abstract/document/10604429)] [[Code](https://github.com/MiLab-HITSZ/2023YeGIAnDe)] \
 *Zipeng Ye, Wenjian Luo, Qi Zhou, Zhenqian Zhu, Yuhui Shi, and Yan Jia* \
@@ -99,10 +103,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 - **Federated Learning under Attack: Improving Gradient Inversion for Batch of Images** [[Paper](https://arxiv.org/abs/2409.17767)] \
 *Luiz Leite, Yuri Santo, Bruno L. Dalmazo, and André Riker* \
 arXiv:2409.17767, 2024.
-
-- **GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search** [[Paper](https://arxiv.org/abs/2405.20725)] \
-*Wenbo Yu, Hao Fang, Bin Chen, Xiaohang Sui, Chuan Chen, Hao Wu, Shu-Tao Xia, and Ke Xu* \
-arXiv:2405.20725, 2024.
 
 - **AFGI: Towards Accurate and Fast-convergent Gradient Inversion Attack in Federated Learning** [[Paper](https://arxiv.org/abs/2403.08383)] \
 *Can Liu, Jin Wang, and Yipeng Zhou, Yachao Yuan, Quanzheng Sheng, and Kejie Lu* \
