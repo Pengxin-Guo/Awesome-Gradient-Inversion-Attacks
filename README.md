@@ -68,6 +68,10 @@ USENIX Security Symposium (**USENIX Security**), 2025.
 *Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, and Lydia Y. Chen* \
 IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**), 2025.
 
+- **Gradient Inversion in Federated Reinforcement Learning** [[Paper](https://arxiv.org/abs/2512.00303)] \
+*Shenghong He and G.K.M. Anle* \
+arXiv:2512.00303, 2025.
+
 - **Non-Linear Trajectory Modeling for Multi-Step Gradient Inversion Attacks in Federated Learning** [[Paper](https://arxiv.org/abs/2509.22082)] \
 *Li Xia, Zheng Liu, Sili Huang, Wei Tang, and Xuan Liu* \
 arXiv:2509.22082, 2025.
