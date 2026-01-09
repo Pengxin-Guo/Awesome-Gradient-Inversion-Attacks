@@ -261,6 +261,11 @@ ACM SIGSAC Conference on Computer and Communications Security (**CCS**), 2022.
 
 ## Emprical Works
 
+- **Exploring the Vulnerabilities of Federated Learning:
+A Deep Dive into Gradient Inversion Attacks** [[Paper](https://ieeexplore.ieee.org/document/11311346)] [[Code](https://github.com/1wrx1/GIA)] \
+*Pengxin Guo, Runxi Wang, Shuang Zeng, Jinjing Zhu, Haoning Jiang, Yanran Wang, Yuyin Zhou, Feifei Wang, Hui Xiong, and Liangqiong Qu* \
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.
+
 - **SoK: On Gradient Leakage in Federated Learning** [[Paper](https://arxiv.org/abs/2404.05403)] \
 *Jiacheng Du, Jiahui Hu, Zhibo Wang, Peng Sun, Neil Zhenqiang Gong, Kui Ren, and Chun Chen* \
 USENIX Security Symposium (**USENIX Security**), 2025.
