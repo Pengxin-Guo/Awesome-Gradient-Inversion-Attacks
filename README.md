@@ -221,6 +221,10 @@ Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
 
 ### Manipulating Model Architecture
 
+- **ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery** [[Paper](https://arxiv.org/abs/2603.17623)] \
+*Zirui Gong, Leo Yu Zhang, Yanjun Zhang, Viet Vo, Tianqing Zhu, Shirui Pan, and Cong Wang* \
+IEEE Symposium on Security and Privacy (**S&P**), 2026.
+
 - **Loki: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation** [[Paper](https://ieeexplore.ieee.org/abstract/document/10646724)] [[Code](https://github.com/Manishpandey-0/Adversarial-reconstruction-attack-on-FL-using-LOKI)] \
 *Joshua C. Zhao, Atul Sharma, Ahmed Roushdy Elkordy, Yahya H. Ezzeldin, Salman Avestimehr, and Saurabh Bagchi* \
 IEEE Symposium on Security and Privacy (**S&P**), 2024.
