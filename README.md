@@ -220,7 +220,7 @@ Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
 ## Analytics-based GIA (ANA-GIA)
 
 - **Privacy-Preserving Deep Learning: Revisited and Enhanced** [[Paper](https://link.springer.com/chapter/10.1007/978-981-10-5421-1_9)] \
-*Le Trieu Phong, Yoshinori Aono, Takuya Hayashi, Lihua Wang, and Shiho Moriai * \
+*Le Trieu Phong, Yoshinori Aono, Takuya Hayashi, Lihua Wang, and Shiho Moriai* \
 International Conference on Applications and Techniques in Information Security (**ATIS**), 2017.
 
 - **R-GAP: Recursive Gradient Attack on Privacy** [[Paper](https://openreview.net/forum?id=RSU17UoKfJF)] [[Code](https://github.com/JunyiZhu-AI/R-GAP)] \
