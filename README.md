@@ -247,6 +247,10 @@ International Conference on Learning Representations (**ICLR**), 2022.
 
 ### Manipulating Model Parameters
 
+- **No More Guessing: a Verifiable Gradient Inversion Attack in Federated Learning** [[Paper](https://arxiv.org/abs/2604.15063)] \
+*Francesco Diana, Chuan Xu, André Nusser, and Giovanni Neglia* \
+arXiv:2604.15063, 2026.
+
 - **Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Sami_Gradient_Inversion_Attacks_on_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html)] [[Code](https://github.com/info-ucr/PEFTLeak)] \
 *Hasin Us Sami, Swapneel Sen, Amit K. Roy-Chowdhury, Srikanth V. Krishnamurthy, and Basak Guler* \
 IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2025.
